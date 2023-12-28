@@ -14,5 +14,5 @@ The method was originally proposed by Tank et al [2], and this repository was al
 The uploaded datasets 
 
 ## Reference
-[1]
+[1] Ryota Takamido,...
 [2] Alex Tank, Ian Covert, Nicholas Foti, Ali Shojaie, Emily Fox. "Neural Granger Causality." *Transactions on Pattern Analysis and Machine Intelligence*, 2021.
