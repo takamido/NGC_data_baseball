@@ -8,9 +8,10 @@ The method was originally proposed by Tank et al [2], and this repository was al
 
 -models: machine learning model for NGC analysis imported from the original repository.
 
--NGC_analysis.ipynb: sample code for the NGC analysis with input_datasets.
+-NGC_analysis.ipynb: sample code for the NGC analysis with input_datasets. You can run this code in Google Colaboratory or other applications.
 
-## Input_datasets
+## Detailes of the input_datasets
+The uploaded datasets 
 
 ## Reference
 [1]
