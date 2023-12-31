@@ -14,12 +14,13 @@ To install the code, please clone the repository. All you need is `Python 3`, `P
 - NGC_analysis.ipynb: sample code for the NGC analysis with input_datasets. You can run this code in Google Colaboratory or other applications.
 
 ## How to run
-Add the file path for "models" and "input_datasets" floders in the NGC_analysis notebook. Then you can run and check how it works.
+Add the file path for "models" and "input_datasets" floders in the NGC_analysis notebook. Then you can run and check how it works. 
+For setting the hyper parameters, please also see the supporting information file.
 
-## Authors
+## Corresponding author
 - Ryota Takamido (<takamido@race.t.u-tokyo.ac.jp>)
 
 ## Reference
-[1] Ryota Takamido
+[1]
 
   [2] Alex Tank, Ian Covert, Nicholas Foti, Ali Shojaie, Emily Fox. "Neural Granger Causality." *Transactions on Pattern Analysis and Machine Intelligence*, 2021.
