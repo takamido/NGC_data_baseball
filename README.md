@@ -21,6 +21,6 @@ For setting the hyper parameters, please also see the supporting information fil
 - Ryota Takamido (<takamido@race.t.u-tokyo.ac.jp>)
 
 ## Reference
-[1] Coming soon
+[1] preparing for pre-prtint
 
   [2] Alex Tank, Ian Covert, Nicholas Foti, Ali Shojaie, Emily Fox. "Neural Granger Causality." *Transactions on Pattern Analysis and Machine Intelligence*, 2021.
