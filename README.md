@@ -21,6 +21,6 @@ For setting the hyper parameters, please also see the supporting information fil
 - Ryota Takamido (<takamido@race.t.u-tokyo.ac.jp>)
 
 ## Reference
-[1] Ryota Takamido, Chiharu Suzuki, Jun Ota, Hiroki Nakamoto, "Understanding whole-body inter-personal dynamics between two players using neural Granger causality as the explainable AI (XAI)", Human Movement Science, vol.101, 2025
+[1] Ryota Takamido, Chiharu Suzuki, Jun Ota, Hiroki Nakamoto, "Understanding whole-body inter-personal dynamics between two players using neural granger causality as the explainable AI (XAI)", Human Movement Science, vol.101, 2025
 
   [2] Alex Tank, Ian Covert, Nicholas Foti, Ali Shojaie, Emily Fox. "Neural Granger Causality." *Transactions on Pattern Analysis and Machine Intelligence*, 2021.
