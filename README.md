@@ -18,7 +18,7 @@ Add the file path for "models" and "input_datasets" floders in the NGC_analysis 
 For setting the hyper parameters, please also see the supporting information file.
 
 ## Corresponding author
-- Ryota Takamido (<takamido@race.t.u-tokyo.ac.jp>)
+- Ryota Takamido (<ryota.takamido(at)gmail.com>)
 
 ## Reference
 [1] Ryota Takamido, Chiharu Suzuki, Jun Ota, Hiroki Nakamoto, "Understanding whole-body inter-personal dynamics between two players using neural granger causality as the explainable AI (XAI)", Human Movement Science, vol.101, 2025
